@@ -1,0 +1,195 @@
+#tabper{
+    width: 1650px;
+    height: 980px;
+    display: block;
+    position: relative;
+    background-color:rgb(255, 230, 200);
+
+
+}
+.Elemento{
+    width: 90px;
+    height: 90px;
+    display: block;
+    float: left;
+    border-radius: 1px;
+    background-color:rgb(151, 250, 127);
+}
+.ElementoA{
+    width: 90px;
+    height: 90px;
+    display: block;
+    float: left;
+    border-radius: 1px;
+    background-color: rgb(246, 127, 127);
+
+}
+.Numeroatomico{
+    width: 80px;
+    height: 10px;
+    display: block;
+    float: left;
+  color:black;
+    text-align: right;
+    padding-top: 8px;
+    padding-right: 20px;
+
+   font-size: small;
+}
+.Simbolo{
+    width: 90px;
+    height: 40px;
+    display: block;
+    float: left;
+    color: black;
+   font-size: 45px;
+    text-align: center;
+  
+ 
+  font-family:Georgia, 'Times New Roman', Times, serif;
+   
+
+}
+.Nome{
+    width: 60px;
+    height: 30px;
+    display: block;
+    float: left;
+    color: black;
+     padding-right: 20px;
+     padding-left: 15px;
+   text-align: center;
+   font-size: smaller;
+   
+   padding-top: 4px;
+
+}
+.Alcalinos{
+    width: 90px;
+    height:600px;
+    display: block;  
+ 
+
+}
+.corlaranja{
+    background-color:rgb(255, 222, 140); 
+    }
+.Alcalinosterrosos{
+    width: 90px;
+    height:500px;
+    display: block;  
+    top: -510px;
+    position: relative;
+    margin-left: 90px;
+    
+}
+.coramarela{
+    background-color: rgb(255, 255, 120);;
+}
+.transicao{
+    width: 900px;
+    height:350px;
+    display: block;  
+    top: -830px;
+    position: relative;
+    margin-left: 180px;
+    
+}
+.corvermelha{
+    background-color: rgb(255, 143, 143);
+}
+.Boro{
+    width: 90px;
+    height:530px;
+    display: block;  
+    top: -1360px;
+    position: relative;
+    margin-left: 1080px;
+    
+} 
+.coraqua{
+background-color: rgb(13, 142, 142);
+}
+.corazulcinza{
+    background-color: rgb(78, 168, 168);
+}
+.Carbono{
+    width: 90px;
+    height:530px;
+    display: block;  
+    top: -1890px;
+    position: relative;
+    margin-left: 1170px;
+    
+} 
+.Nitrogenio{
+    width: 90px;
+    height:530px;
+    display: block;  
+    top: -2420px;
+    position: relative;
+    margin-left: 1260px;
+    
+}
+.Calcogenio{
+    width: 90px;
+    height:530px;
+    display: block;  
+    top: -2950px;
+    position: relative;
+    margin-left: 1350px;
+}
+.Halogenios{
+    width: 90px;
+    height:530px;
+    display: block;  
+    top: -3480px;
+    position: relative;
+    margin-left: 1440px;
+}
+.corazulclaro{
+    background-color: rgb(89, 216, 232);
+}
+.GasesNobres{
+    width: 90px;
+    height:600px;
+    display: block;  
+    position: relative;
+    float: left;
+    margin-left: 1530px;
+    top: -4110px;
+    z-index: 999;
+}
+.corazul{
+    background-color: rgb(36, 182, 240);
+}
+.transitivos{
+    width: 900px;
+    height:350px;
+    display: block;  
+    position: relative;
+    margin-left: 180px;
+}
+.Transitivos{
+    width: 1350px;
+    height: 180px;
+    display: block;  
+    float: left;
+    top: -4010px;
+    position: relative;
+    margin-left: 180px;
+}
+.corblue{
+    background-color: rgb(112, 202, 255);
+}
+    .corroxo{
+        background-color: rgb(195, 135, 251);
+    }
+
+
+
+
+
+
+
+
